@@ -5,4 +5,4 @@
 
 <p>All the map specific Javascript written for this application is in the <a href="https://github.com/ChrisFleet/InnesJamaicaJournal/blob/master/scripts/index.js">index.js</a> file with comments explaining the functions.
 
-<p>Read further information about <a href="https://geo.nls.uk/maps/innes.html">Alexander Innes</a>, about the journal and map <a href="https://geo.nls.uk/maps/sources.html">sources</a>, and <a href="https://geo.nls.uk/maps/about.html">about the resource</a>.</p>
+<p>Read further information about <a href="https://geo.nls.uk/maps/innes/innes.html">Alexander Innes</a>, about the journal and map <a href="https://geo.nls.uk/maps/innes/sources.html">sources</a>, and <a href="https://geo.nls.uk/maps/innes/about.html">about the resource</a>.</p>
